@@ -1,0 +1,22 @@
+{
+  "name": "modul1",
+  "version": "1.0.0",
+  "description": "modul 1 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kauri646/541211098-XII-RPL-3-KAUTSAR-RIFQI-ADITYA"
+  },
+  "author": "kaxurix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
